@@ -1,4 +1,4 @@
 var flow
 var gate
 if flow = 2
-  then gate;
+  then breach gate;
